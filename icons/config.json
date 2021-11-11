@@ -1,0 +1,40 @@
+{
+  "name": "MyIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "d10920db2e79c997c5e783279291970c",
+      "css": "dot-3",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "71064f0fa3be043351efdcaea9c5b8ea",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "4033b8c9e88aa3ea14b84508393a188b",
+      "css": "location_on",
+      "code": 59393,
+      "src": "material"
+    },
+    {
+      "uid": "cb1b238b03c21450ef717fe3d8534d68",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "3e0d6ad6090a1e3937cf2dac38d853eb",
+      "css": "youtube",
+      "code": 61799,
+      "src": "fontawesome5"
+    }
+  ]
+}
